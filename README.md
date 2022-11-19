@@ -31,7 +31,7 @@ QBCore.Functions.CreateUseableItem("kjøttnudler", function(source, item)
     TriggerClientEvent("consumables:client:Eat", source, item.name)
 end)
 
-Add images to lj-inventory/html/images
+Add images to lj-inventory/html/images and delete them after you have finished this step!
 
 restart your server and eat your noodles!
 
