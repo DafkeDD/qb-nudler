@@ -33,6 +33,8 @@ end)
 
 Add images to lj-inventory/html/images and delete them after you have finished this step!
 
+MLO Used: https://www.youtube.com/watch?v=0e5LvATh2m0
+
 restart your server and eat your noodles!
 
 # License
